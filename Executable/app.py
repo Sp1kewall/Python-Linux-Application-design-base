@@ -1,21 +1,21 @@
 from yamlread import *
-from update import *
 import os
 
-
-sourcemode = 0
-
-if os.path.isfile("source"):
-    sourcemode = 1
-else:
-    pass
-
+def clear():
+    '''
+    This is a helper function for clearing the terminal screen
+    '''
+    os.system("clear")
 
 
 def main():
+    '''
+    This is the main function of the application. It will run first
+    '''
+
+    # Your code here
+
     pass
-
-
 
 
 if __name__ == '__main__':
