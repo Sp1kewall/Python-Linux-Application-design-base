@@ -9,7 +9,4 @@ with open('../about.yaml', 'r') as about0:
 
 
 version = about.get("version")
-
 appname = about.get("appname")
-
-update = about.get("update")
