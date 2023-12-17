@@ -1,5 +1,5 @@
-'''Данный файл нуджен для установки базовых переменных
-Этот файл очень важен!'''
+'''This file is needed to set basic variables
+This file is very important!'''
 
 
 import yaml
